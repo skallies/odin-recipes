@@ -2,6 +2,7 @@
 
 body {
    background-color: rgba(228, 233, 222, 0.795);
+   font-family: Verdana, Arial, sans-serif;
 }
 
 img {
@@ -47,6 +48,7 @@ ul.index li {
 }
 
 a {
-   font-weight: bolder;
+   font-weight: bold;
+   font-style: italic;
    color:rgb(161, 0, 0);
 }
